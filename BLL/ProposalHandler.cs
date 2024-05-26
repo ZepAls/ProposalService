@@ -37,3 +37,5 @@ namespace BLL
             return databaseHandler.GetProposal(ProposalId);
         }
     }
+
+}
